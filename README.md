@@ -1,3 +1,5 @@
+> **Archived (read-only).** This repository contains the analysis code accompanying a publication and is intentionally frozen, not maintained.
+
 ## Setup
 This project uses renv and R-Version 3.5.2. To install all packages needed in your local R-environment simply run: `renv::restore()`
 If you are working on your MCH-laptop you might want to set the renv cache-path to another location than the home-folder, otherwise you will reach the quota. Feel free to use my cache with downloaded packages, by pasting the following lines of code into your .Renviron file.
